@@ -1,4 +1,4 @@
-# The_Spark_Foundation_ML
+# The_Sparks_Foundation_ML
 **Task 1** : score prediction  
 
 What will be the predicted score if a student study for 9.25 hours per day by using Linear regression algorithm.
